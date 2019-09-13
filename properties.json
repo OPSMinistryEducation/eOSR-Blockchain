@@ -1,3 +1,5 @@
 {
-  "parent": "master"
+  "type": "schoolboard",
+  "parent": "master",
+  "children": []
 }
