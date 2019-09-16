@@ -1,4 +1,4 @@
 {
-  "type': "ministry",
+  "type": "ministry",
   "children": ["TDSB", "WDSB"]
 }
