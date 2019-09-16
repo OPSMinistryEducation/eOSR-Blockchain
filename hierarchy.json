@@ -1,17 +1,21 @@
 {
-    "ministry": "Ontario Ministry of Education",
+    "name": "Ontario Ministry of Education",
+    "type": "ministry",
     "children": [
       {
-        "school-board": "TDSB",
+        "name": "TDSB",
+        "type": "school-board",
         "children": [
           {
-            "school": "school-1",
+            "name": "school-1",
+            "type": "school",
             "children": []
           }
         ]
       },
       {
-        "school-board": "WDSB",
+        "name": "WDSB",
+        "type": "school-board",
         "children": []
       }
     ]
