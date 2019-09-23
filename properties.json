@@ -1,5 +1,4 @@
 {
-  "type": "schoolboard",
-  "parent": "master",
-  "children": ["school-1"]
+  "type": "ministry",
+  "children": ["TDSB", "WDSB"]
 }
